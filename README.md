@@ -18,8 +18,7 @@
 <samp>
  <b><h2 style="color: #fc6203">S O M E &nbsp; I N F O </h2> </b>
 
-<img src="![image](https://github.com/user-attachments/assets/b539f25d-2af4-4044-974b-84a2505ca907)
-" width="200"/>
+<img src="https://github.com/user-attachments/assets/86c74512-5aa4-4a81-9faa-14f2228b7f08" width="200"/>
 
 Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
 
