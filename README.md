@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/MarkCelius">Len</a></b>.
-    <br>I am a software programming student from Colombia.<br>
+    <br>I'm a software programming student from Colombia.<br>
     <br><br>
 
 </samp>
