@@ -21,11 +21,11 @@
 <img src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="200"/>
 
 ```javascript
-const thai = {
+const Col = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Java],
   tools: [React, Node, Docker],
- now: "I'm currently learning more about this area, I'm a student"
+  now: "I'm currently learning more about this area, I'm a student"
 }
 ```
 
