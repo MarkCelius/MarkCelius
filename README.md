@@ -20,7 +20,15 @@
 
 <img src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="200"/>
 
-Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Python, Java],
+  tools: [React, Node, Docker],
+ now: "I'm currently learning more about this area, I'm a student"
+}
+```
+
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
