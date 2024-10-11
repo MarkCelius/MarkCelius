@@ -18,9 +18,9 @@
 <samp>
  <b><h2 style="color: #fc6203">S O M E &nbsp; I N F O </h2> </b>
 
-<img src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="200"/>
+<img align="center" src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="200"/>
 
-<script >
+
   ```javascript
 const Col = {
   pronouns: "she" | "her",
@@ -29,7 +29,6 @@ const Col = {
   now: "I'm currently learning more about this area, I'm a student"
 }
 ```
-</script>
 
 
 
