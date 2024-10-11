@@ -19,8 +19,8 @@
  <b><h2 style="color: #fc6203">S O M E &nbsp; I N F O </h2> </b>
 
 <img src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="200"/>
-
-```javascript
+<div >
+  ```javascript
 const Col = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Java],
@@ -28,6 +28,8 @@ const Col = {
   now: "I'm currently learning more about this area, I'm a student"
 }
 ```
+</div>
+
 
 
 <p align="center">
